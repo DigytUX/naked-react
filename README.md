@@ -1,6 +1,8 @@
-# Getting Started with Create React App
+# Naked React
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Use react without the crap!
+
+This template allows you to get started with a react frontend as quickly as possible.
 
 ## Available Scripts
 
